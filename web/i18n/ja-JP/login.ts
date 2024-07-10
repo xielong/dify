@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: 'ユーザー名を入力してください',
   forget: 'パスワードをお忘れですか？',
   signBtn: 'サインイン',
+  sso: 'SSOで続行',
   installBtn: 'セットアップ',
   setAdminAccount: '管理者アカウントの設定',
   setAdminAccountDesc: 'アプリケーションの作成やLLMプロバイダの管理など、管理者アカウントの最大権限を設定します。',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: '有効なメールアドレスを入力してください',
     nameEmpty: '名前は必須です',
     passwordEmpty: 'パスワードは必須です',
+    passwordLengthInValid: 'パスワードは8文字以上である必要があります',
     passwordInvalid: 'パスワードは文字と数字を含み、長さは8以上である必要があります',
   },
   license: {

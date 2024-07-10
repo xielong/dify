@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: 'Tên người dùng của bạn',
   forget: 'Quên mật khẩu?',
   signBtn: 'Đăng nhập',
+  sso: 'Tiếp tục với SSO',
   installBtn: 'Cài đặt',
   setAdminAccount: 'Thiết lập tài khoản quản trị',
   setAdminAccountDesc: 'Quyền tối đa cho tài khoản quản trị, có thể được sử dụng để tạo ứng dụng và quản lý các nhà cung cấp LLM, v.v.',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: 'Vui lòng nhập một địa chỉ email hợp lệ',
     nameEmpty: 'Tên là bắt buộc',
     passwordEmpty: 'Mật khẩu là bắt buộc',
+    passwordLengthInValid: 'Mật khẩu phải có ít nhất 8 ký tự',
     passwordInvalid: 'Mật khẩu phải chứa chữ và số, và độ dài phải lớn hơn 8',
   },
   license: {

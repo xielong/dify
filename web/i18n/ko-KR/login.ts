@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: '사용자 이름을 입력하세요',
   forget: '비밀번호를 잊으셨나요?',
   signBtn: '로그인',
+  sso: 'SSO로 계속',
   installBtn: '설치',
   setAdminAccount: '관리자 계정 설정',
   setAdminAccountDesc: '앱 생성 및 LLM 제공자 관리 등 최고 권한을 가진 관리자 계정 설정',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: '유효한 이메일 주소를 입력하세요.',
     nameEmpty: '사용자 이름을 입력하세요.',
     passwordEmpty: '비밀번호를 입력하세요.',
+    passwordLengthInValid: '비밀번호는 최소 8자 이상이어야 합니다',
     passwordInvalid: '비밀번호는 문자와 숫자를 포함하고 8자 이상이어야 합니다.',
   },
   license: {

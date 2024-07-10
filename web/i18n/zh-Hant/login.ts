@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: '輸入使用者名稱',
   forget: '忘記密碼？',
   signBtn: '登入',
+  sso: '繼續使用SSO',
   installBtn: '設定',
   setAdminAccount: '設定管理員賬戶',
   setAdminAccountDesc: '管理員擁有的最大許可權，可用於建立應用和管理 LLM 供應商等。',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: '請輸入有效的郵箱地址',
     nameEmpty: '使用者名稱不能為空',
     passwordEmpty: '密碼不能為空',
+    passwordLengthInValid: '密碼必須至少包含8個字符',
     passwordInvalid: '密碼必須包含字母和數字，且長度不小於8位',
   },
   license: {

@@ -57,6 +57,7 @@ const translation = {
     emailInValid: 'Proszę wpisać prawidłowy adres e-mail',
     nameEmpty: 'Nazwa jest wymagana',
     passwordEmpty: 'Hasło jest wymagane',
+    passwordLengthInValid: 'Hasło musi mieć co najmniej 8 znaków',
     passwordInvalid:
       'Hasło musi zawierać litery i cyfry, a jego długość musi być większa niż 8',
   },

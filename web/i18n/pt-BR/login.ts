@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: 'Seu nome de usuário',
   forget: 'Esqueceu sua senha?',
   signBtn: 'Entrar',
+  sso: 'Continuar com SSO',
   installBtn: 'Configuração',
   setAdminAccount: 'Configurando uma conta de administrador',
   setAdminAccountDesc: 'Privilégios máximos para a conta de administrador, que pode ser usada para criar aplicativos e gerenciar provedores LLM, etc.',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: 'Digite um endereço de e-mail válido',
     nameEmpty: 'O nome é obrigatório',
     passwordEmpty: 'A senha é obrigatória',
+    passwordLengthInValid: 'A senha deve ter pelo menos 8 caracteres',
     passwordInvalid: 'A senha deve conter letras e números e ter um comprimento maior que 8',
   },
   license: {

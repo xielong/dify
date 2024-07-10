@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: 'Dein Benutzername',
   forget: 'Passwort vergessen?',
   signBtn: 'Anmelden',
+  sso: 'Mit SSO fortfahren',
   installBtn: 'Einrichten',
   setAdminAccount: 'Admin-Konto einrichten',
   setAdminAccountDesc: 'Maximale Berechtigungen für das Admin-Konto, das verwendet werden kann, um Anwendungen zu erstellen und LLM-Anbieter usw. zu verwalten.',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: 'Bitte gib eine gültige E-Mail-Adresse ein',
     nameEmpty: 'Name wird benötigt',
     passwordEmpty: 'Passwort wird benötigt',
+    passwordLengthInValid: 'Das Passwort muss mindestens 8 Zeichen lang sein',
     passwordInvalid: 'Das Passwort muss Buchstaben und Zahlen enthalten und länger als 8 Zeichen sein',
   },
   license: {

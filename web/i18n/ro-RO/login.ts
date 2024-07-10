@@ -53,6 +53,7 @@ const translation = {
     emailInValid: 'Te rugăm să introduci o adresă de email validă',
     nameEmpty: 'Numele este obligatoriu',
     passwordEmpty: 'Parola este obligatorie',
+    passwordLengthInValid: 'Parola trebuie să aibă cel puțin 8 caractere',
     passwordInvalid: 'Parola trebuie să conțină litere și cifre, iar lungimea trebuie să fie mai mare de 8 caractere',
   },
   license: {

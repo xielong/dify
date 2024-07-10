@@ -9,6 +9,7 @@ const translation = {
   namePlaceholder: 'Votre nom d\'utilisateur',
   forget: 'Mot de passe oublié ?',
   signBtn: 'Se connecter',
+  sso: 'Continuer avec SSO',
   installBtn: 'Mettre en place',
   setAdminAccount: 'Configuration d\'un compte administrateur',
   setAdminAccountDesc: 'Privilèges maximum pour le compte administrateur, qui peut être utilisé pour créer des applications et gérer les fournisseurs de LLM, etc.',
@@ -52,6 +53,7 @@ const translation = {
     emailInValid: 'Veuillez entrer une adresse email valide',
     nameEmpty: 'Le nom est requis',
     passwordEmpty: 'Un mot de passe est requis',
+    passwordLengthInValid: 'Le mot de passe doit contenir au moins 8 caractères',
     passwordInvalid: 'Le mot de passe doit contenir des lettres et des chiffres, et la longueur doit être supérieure à 8.',
   },
   license: {
